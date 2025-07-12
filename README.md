@@ -152,12 +152,6 @@ CREATE DATABASE floracare;
 ## 👨‍💻 Contributors
 * **Srishti Rai M**
 * **Ananya K S** 
-
-### 🎓 Guided by:
-
-* Ms. Ashwini C S, Assistant Professor, Dept. of CS\&E
-* Dr. Suhas A Bhyratae, Associate Professor, Dept. of CS\&E
-
 ---
 
 ## 🚀 Future Enhancements
